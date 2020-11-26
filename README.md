@@ -1,6 +1,11 @@
-# tictactoe_app
+# tic-tac-toe app
 
 A new Flutter project.
+
+# Screenshots :
+
+<img src="https://github.com/rahamanar/tictactoe_flutter_app/blob/main/Screenshot_1.png" width="160" height="280">          <img src="https://github.com/rahamanar/tictactoe_flutter_app/blob/main/Screenshot_2.png" width="160" height="280">          <img src="https://github.com/rahamanar/tictactoe_flutter_app/blob/main/Screenshot_3.png" width="160" height="280"> 
+<br/>
 
 ## Getting Started
 
